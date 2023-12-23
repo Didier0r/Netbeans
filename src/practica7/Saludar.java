@@ -8,13 +8,10 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author mia
+ * @author Didier Recalde 
  */
 public class Saludar extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Practicaw7
-     */
     public Saludar() {
         initComponents();
         setTitle("saludar");

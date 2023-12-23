@@ -6,7 +6,7 @@ package practica7;
 
 /**
  *
- * @author mia
+ * @author Didier Recalde
  */
 class Practica07 {
     
